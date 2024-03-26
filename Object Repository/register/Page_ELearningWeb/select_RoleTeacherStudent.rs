@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_RoleTeacherStudent</name>
+   <tag></tag>
+   <elementGuidId>c80eb282-0679-44f0-be61-cc62a42aba5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Create new account'])[1]/following::select[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-input.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2cb04c56-eee3-4465-a5ce-31e766254793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>role</value>
+      <webElementGuid>7f3d46cf-9161-4f61-940e-f9aa1ecd45a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-input ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>eb82aa0a-1284-46ac-8305-c2764d2018b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-name</name>
+      <type>Main</type>
+      <value>role</value>
+      <webElementGuid>4b6e7d11-4703-435d-9935-2acaa1570da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RoleTeacherStudent</value>
+      <webElementGuid>e80a2a71-1b2e-47e9-9cf7-0517050f8985</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-register[1]/div[@class=&quot;container w-11/12 mx-auto&quot;]/form[@class=&quot;ng-valid ng-dirty ng-touched&quot;]/select[@class=&quot;form-input ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>a7d3ae0e-9cd4-44b8-8f58-5b29f0a5e64c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create new account'])[1]/following::select[1]</value>
+      <webElementGuid>64d68d72-736b-489b-9c90-4f4ff16784ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::select[1]</value>
+      <webElementGuid>0c5b63d9-7619-48a0-bfd8-fe9df689b8bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>ad9ea10b-6370-4aba-91e6-d87b8206f904</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'RoleTeacherStudent' or . = 'RoleTeacherStudent')]</value>
+      <webElementGuid>710b52df-9251-484f-a4b1-4eb3c3d267cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

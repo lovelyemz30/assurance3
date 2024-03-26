@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Watch on_ytp-play-button ytp-button</name>
+   <tag></tag>
+   <elementGuidId>2147f553-0a07-492f-9809-a5ddd15d5423</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='movie_player']/div[33]/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ytp-play-button.ytp-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Pause keyboard shortcut k&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b0de577e-2879-4d49-9906-8cdf3d7f86d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ytp-play-button ytp-button</value>
+      <webElementGuid>0aeb1d15-ce26-43fb-8a67-1e9dc43a5495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-keyshortcuts</name>
+      <type>Main</type>
+      <value>k</value>
+      <webElementGuid>970bb31b-2256-471c-af22-61f049dd9d4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-title-no-tooltip</name>
+      <type>Main</type>
+      <value>Pause</value>
+      <webElementGuid>e13d5bb6-4cc8-477c-bcba-77c968e7f43b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Pause keyboard shortcut k</value>
+      <webElementGuid>1a96f42f-fe90-45fc-abd5-aed0bb63a64f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;movie_player&quot;)/div[@class=&quot;ytp-chrome-bottom&quot;]/div[@class=&quot;ytp-chrome-controls&quot;]/div[@class=&quot;ytp-left-controls&quot;]/button[@class=&quot;ytp-play-button ytp-button&quot;]</value>
+      <webElementGuid>da45c0c7-0b5a-46ff-bb2b-b4c7f15c1f81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_ELearningWeb/iframe_Video_widget2</value>
+      <webElementGuid>84d3073e-facd-40dd-ae14-fb7ef734fe89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='movie_player']/div[33]/div[2]/div/button</value>
+      <webElementGuid>7863f5a0-2958-4f7e-998f-2d6afae651a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watch on'])[1]/following::button[1]</value>
+      <webElementGuid>4a19fd33-48f0-4aaf-8f2c-a2f5b3cb336b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share'])[2]/following::button[4]</value>
+      <webElementGuid>6f1c27b6-7ae2-482c-be32-792237d2749b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/preceding::button[2]</value>
+      <webElementGuid>a2a5e2dc-f722-4156-aca5-bafa6c754ac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='•'])[1]/preceding::button[2]</value>
+      <webElementGuid>e4bacf62-7d8c-477e-a4fa-b02421a4c1d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>4fcacd33-da26-4248-945e-efdcde14bc25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
